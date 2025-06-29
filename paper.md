@@ -2,7 +2,7 @@
 title: 'A Lightweight Multi-Voice Dubbing Tool using Python and ElevenLabs API'
 authors:
   - name: RAGHAV SIDDHARTH
-    orcid: 0000-0000-0000-0000
+    orcid: 0009-0008-0178-3226
     affiliation: 1
 affiliations:
   - name: Bansal Institute Of Engineeing & Technology
