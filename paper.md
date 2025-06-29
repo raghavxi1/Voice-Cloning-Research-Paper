@@ -5,7 +5,7 @@ authors:
     orcid: 0000-0000-0000-0000
     affiliation: 1
 affiliations:
-  - name: Your Institution (or Independent Researcher)
+  - name: Bansal Institute Of Engineeing & Technology
     index: 1
 date: 2025-06-29
 software-link: https://github.com/raghavxi1/Voice-Cloning-Research-Paper
