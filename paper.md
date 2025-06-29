@@ -1,15 +1,15 @@
 ---
 title: 'A Lightweight Multi-Voice Dubbing Tool using Python and ElevenLabs API'
 authors:
-  - name: Your Name
+  - name: RAGHAV SIDDHARTH
     orcid: 0000-0000-0000-0000
     affiliation: 1
 affiliations:
   - name: Your Institution (or Independent Researcher)
     index: 1
 date: 2025-06-29
-software-link: https://github.com/yourusername/your-repo-name
-repository: https://github.com/yourusername/your-repo-name
+software-link: https://github.com/raghavxi1/Voice-Cloning-Research-Paper
+repository: https://github.com/raghavxi1/Voice-Cloning-Research-Paper
 archive: https://doi.org/10.xxxx/zenodo.xxxxxx
 keywords:
   - voice cloning
